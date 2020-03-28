@@ -1,0 +1,39 @@
+.text-bold {
+  font-weight: 600;
+}
+
+.text-xxs {
+  font-size: 14px;
+}
+
+.text-xs {
+  font-size: 16px;
+}
+
+.text-sm {
+  font-size: 20px;
+}
+
+.text-lg {
+  font-size: 30px;
+}
+
+.text-xl {
+  font-size: 38px;
+}
+
+.text-xxl {
+  font-size: 46px;
+}
+
+.text-xxxl {
+  font-size: 56px;
+}
+
+.text-xxxxl {
+  font-size: 68px;
+}
+
+.text-center {
+  text-align: center;
+}

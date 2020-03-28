@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12089438",
+      "name": "小程序",
+      "font_class": "xiaochengxu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

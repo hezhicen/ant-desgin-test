@@ -1,0 +1,9 @@
+button[class*='bg-green'] {
+  background-color: var(--green);
+  color: var(--white);
+}
+
+button[class*='bg-orange'] {
+  background-color: var(--orange);
+  color: var(--white);
+}
